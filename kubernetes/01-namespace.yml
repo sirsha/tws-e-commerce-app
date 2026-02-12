@@ -2,7 +2,7 @@ kind: Namespace
 apiVersion: v1
 
 metadata:
-  name: easy-shop-ns
+  name: easyshop
   labels:
     name: easyshop
     environment: production
